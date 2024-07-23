@@ -8,3 +8,8 @@ public class Program
         Console.WriteLine("Hello!!");
     }
 }
+
+public class DemoClass
+{
+    
+}
