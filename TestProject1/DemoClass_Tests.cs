@@ -9,7 +9,7 @@ public class DemoClass_Tests
     [InlineData(4)]
     [InlineData(8)]
     [InlineData(20)]
-    public void DemoClass_NumberIsDivisibleBy_EvenNumbers_ReturnTrue(int value)
+    public void DemoClass_NumberIsDivisibleBy_ReturnTrue(int value)
     {
         _demoClass = new(value);
 
