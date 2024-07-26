@@ -32,7 +32,6 @@ public class DemoClass_Tests
         Assert.False(result);
     }
     
-    
     [Theory]
     [InlineData(1, @"D:\Code\dotnet-test-test\dotnet-test-test\Program.cs")]
     [InlineData(2, @"D:\Code\sp24-gpr250\Final - JoshuAnne\Final\CollisionEvent.cpp")]
