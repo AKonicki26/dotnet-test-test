@@ -33,7 +33,7 @@ public class DemoClass_Tests
     }
     
     [Theory]
-    [InlineData(1, @"D:\Code\dotnet-test-test\dotnet-test-test\Program.cs")]
+    [InlineData(1, @"D:\Code\dotnet-test-test\dotnet-test-test\")]
     [InlineData(2, @"D:\Code\sp24-gpr250\Final - JoshuAnne\Final\CollisionEvent.cpp")]
     [InlineData(3, @"C:\Users\akoni\Downloads\Forbidden.png")]
     [InlineData(4, @"D:\curseforge\minecraft\Install\launcher_custom_skins.json")]
