@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test-test", "dotnet-test-test\dotnet-test-test.csproj", "{DA69B785-EDD7-43B2-AF91-41955785C914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing-tests", "testing-tests\testing-tests.csproj", "{12BDA280-EBBB-460A-90FA-12BE457BF228}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{AB018B8B-1BD8-42C0-B97D-5C3FB7B7B983}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{DA69B785-EDD7-43B2-AF91-41955785C914}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA69B785-EDD7-43B2-AF91-41955785C914}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA69B785-EDD7-43B2-AF91-41955785C914}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12BDA280-EBBB-460A-90FA-12BE457BF228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12BDA280-EBBB-460A-90FA-12BE457BF228}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12BDA280-EBBB-460A-90FA-12BE457BF228}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12BDA280-EBBB-460A-90FA-12BE457BF228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB018B8B-1BD8-42C0-B97D-5C3FB7B7B983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB018B8B-1BD8-42C0-B97D-5C3FB7B7B983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB018B8B-1BD8-42C0-B97D-5C3FB7B7B983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB018B8B-1BD8-42C0-B97D-5C3FB7B7B983}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
